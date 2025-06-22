@@ -1,0 +1,11 @@
+[
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.prince.deffdeeplinkapp",
+    "sha256_cert_fingerprints":
+    ["2E:FC:99:8C:B8:CA:53:BF:3C:59:1B:43:21:57:61:86:1E:A4:6B:82:F0:24:B6:56:19:9B:16:29:B7:C3:0F:23"]
+  }
+}
+]
